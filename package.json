@@ -1,0 +1,23 @@
+{
+  "name": "knc",
+  "version": "1.0.0",
+  "description": "Katie Corcoran's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corcorankt1/katie-n-corcoran.git"
+  },
+  "author": "Katie Corcoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corcorankt1/katie-n-corcoran/issues"
+  },
+  "homepage": "https://github.com/corcorankt1/katie-n-corcoran#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0"
+  }
+}
